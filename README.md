@@ -23,6 +23,11 @@ easy to use and fully mamanged cloud serveices for running apache spark/hadoop
 ✅ **Integrated with GCP** – Works well with **BigQuery, Cloud Storage, etc.**  
 ✅ **Cost-Effective** – Pay **only when the cluster is running**  
 
+
+Google cloud dataproc is a managed a  spark and apache hadoop that is fast easy to usee and low cost 
+
+data proc custer are pre configured wit the HDFS so data proc cluster are pre configiured 
+
 ---
 
 ## **📢 2️⃣ Why Use Dataproc? (Real-Life Example)** (5 min)  
