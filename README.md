@@ -18,7 +18,8 @@ Start with a simple explanation:
 
 ### **🔹 Key Features:**  
 ✅ **Fast** – Clusters start in less than 90 seconds  
-✅ **Fully Managed** – No need to set up Spark/Hadoop manually  
+easy to use and fully mamanged cloud serveices for running apache spark/hadoop
+✅ **Fully pManaged** – No need to set up Spark/Hadoop manually  
 ✅ **Integrated with GCP** – Works well with **BigQuery, Cloud Storage, etc.**  
 ✅ **Cost-Effective** – Pay **only when the cluster is running**  
 
