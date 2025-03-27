@@ -28,6 +28,12 @@ Google cloud dataproc is a managed a  spark and apache hadoop that is fast easy 
 
 data proc custer are pre configured wit the HDFS so data proc cluster are pre configiured 
 
+
+Java
+pyhton
+pyspark
+pig
+hive
 ---
 
 ## **📢 2️⃣ Why Use Dataproc? (Real-Life Example)** (5 min)  
