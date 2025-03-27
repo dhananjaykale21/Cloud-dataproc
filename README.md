@@ -1,8 +1,4 @@
-### **📌 How to Teach Students Cloud Dataproc from Start to Finish**  
 
-Here’s a **structured lesson plan** you can follow to teach students **Cloud Dataproc** in a simple and effective way.  
-
----
 
 ## **🎯 Lesson Agenda**
 1️⃣ Introduction to Cloud Dataproc  
